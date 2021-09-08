@@ -1,0 +1,14 @@
+again here we all use Google
+Trends it is an implementation of Google
+Translate API and we will see how to
+translate text then we will get the
+available languages that we can use and
+finally how to detect possible mistakes
+okay the first thing that we need to do
+is install Google Trends in a PowerShell
+terming okay so we type pip install
+Google Trends it enter successfully
+installed now we can close the terminal
+here in the code we will do three things
+the first thing is translate the second
+thing is list supported languages and

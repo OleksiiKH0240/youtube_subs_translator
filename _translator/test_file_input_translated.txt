@@ -1,0 +1,56 @@
+it - Это
+detect - обнаруживать
+terming - Термин
+close - Закрыть
+first - первый
+get - получать
+finally - Ну наконец то
+is - является
+three - три
+of - из
+need - нужно
+available - имеется в наличии
+will - буду
+here - здесь
+powershell - PowerShell
+languages - Языки
+then - потом
+in - в
+pip - питье
+how - как
+type - тип
+so - так
+can - может
+implementation - реализация
+supported - поддерживается
+list - список
+enter - войти
+use - использовать
+see - видеть
+mistakes - ошибки
+api - API
+that - тот
+install - установить
+trends - тенденции
+thing - предмет
+a - 
+possible - возможно
+code - код
+an - 
+and - и
+successfully - успешно
+now - сейчас же
+text - текст
+to - к
+do - делать
+terminal - Терминал
+all - все
+we - мы
+installed - установлен
+things - вещи
+okay - хорошо
+translate - перевести
+second - второй
+google - Google
+again - опять таки
+the - то
