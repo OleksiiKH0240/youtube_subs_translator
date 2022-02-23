@@ -1,7 +1,8 @@
 import os
+from os.path import join
 import sys
 
-Modules_paths = ['\\_bot', '\\_parser', '\\_translator', '\\Benchmarks_funcs', "\\_data"]
+Modules_paths = ['_bot', '_parser', '_translator', 'Benchmarks_funcs', "_data"]
 
 main_folder_name = 'youtube_subs_translator'
 
@@ -14,11 +15,11 @@ def get_base_path():
 
 
 Base_path = get_base_path()
-
+# print(Base_path)
 
 # print('Base_path: ', Base_path)
 def get_paths(modules_names: list = Modules_paths):
-    requirement_paths = [Base_path + i for i in Modules_paths if
+    requirement_paths = [join(Base_path, i) for i in Modules_paths if
                          any([True if j in i else False for j in modules_names])]
     for i in requirement_paths:
         if i not in sys.path:
