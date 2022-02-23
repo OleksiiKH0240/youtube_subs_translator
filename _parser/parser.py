@@ -1,7 +1,9 @@
+from os.path import join
+
 from youtube_transcript_api import YouTubeTranscriptApi
 import os
 from Benchmarks_funcs.Benchmarks import benchmark
-from config_paths import get_paths
+from _bot.config import get_paths
 
 
 class Parser:
@@ -11,7 +13,7 @@ class Parser:
         if download_path:
             if ":" not in download_path:
                 # relative path (path started from _parser folder)
-                self.download_path = get_paths(["parser"])[0] + "\\" + download_path
+                self.download_path = join(get_paths(["parser"])[0], download_path)
             if not os.path.exists(self.download_path):
                 os.mkdir(self.download_path)
 

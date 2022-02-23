@@ -1,4 +1,4 @@
-from config_paths import get_paths
+from _bot.config import get_paths
 from you_su_aiogram_bot import bot, dp
 from classes import Person
 from config import ADMIN_ID, Parser_folder_name, Buffer_folder_name
@@ -13,6 +13,7 @@ from _parser.parser import Parser
 from _translator.translator import FileTranslator
 
 Parser_folder_path = get_paths(["data"])[0] + "\\" + Parser_folder_name
+# print(get_paths(["data"]))
 Pars = Parser(download_path=Parser_folder_path)
 Trans = FileTranslator(subs_folder_path=Parser_folder_path)
 
@@ -25,6 +26,7 @@ pers_set = set()
 
 async def say_to_admin(dp):
     await bot.send_message(chat_id=ADMIN_ID, text='Bot has started!')
+
 
 
 @dp.message_handler(lambda msg: msg.text[0] != '/')
