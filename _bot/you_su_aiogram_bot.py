@@ -3,10 +3,10 @@ from os.path import join
 
 from aiogram import Bot, Dispatcher, executor
 
-from _bot import config
 import os
 import sys
 
+import config
 
 from _bot.config import get_paths, get_base_path
 
