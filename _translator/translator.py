@@ -4,7 +4,7 @@ from googletrans import Translator
 from Benchmarks_funcs.Benchmarks import benchmark
 import time
 
-from config_paths import get_paths
+from _bot.config import get_paths
 
 
 class FileTranslator:

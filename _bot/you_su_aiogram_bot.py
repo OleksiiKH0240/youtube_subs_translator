@@ -1,19 +1,20 @@
 import logging
 from os.path import join
 
-from aiogram import Bot, Dispatcher, executor, types
-import _bot.config as config
+from aiogram import Bot, Dispatcher, executor
+
+from _bot import config
 import os
 import sys
 
 
-from config_paths import get_paths, get_base_path
+from _bot.config import get_paths, get_base_path
 
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=config.TOKEN)
 dp = Dispatcher(bot)
-#print('fgdf', sys.path)
+# print('fgdf', sys.path)
 # print(os.getcwd())
 
 os.chdir(sys.path[0])

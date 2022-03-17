@@ -1,4 +1,4 @@
-from config_paths import get_paths
+from _bot.config import get_paths
 from you_su_aiogram_bot import bot, dp
 from classes import Person
 from config import ADMIN_ID, Parser_folder_name, Buffer_folder_name

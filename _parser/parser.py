@@ -3,7 +3,7 @@ from os.path import join
 from youtube_transcript_api import YouTubeTranscriptApi
 import os
 from Benchmarks_funcs.Benchmarks import benchmark
-from config_paths import get_paths
+from _bot.config import get_paths
 
 
 class Parser:
