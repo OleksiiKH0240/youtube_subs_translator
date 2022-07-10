@@ -33,5 +33,6 @@ for folder_name in [config.Buffer_folder_name, config.Parser_folder_name]:
 if __name__ == "__main__":
     #print(os.getcwd())
     #os.chdir(sys.path[0])
+    # print(sys.argv)
     from _bot.you_su_aiorgam_bot_handlers import dp, say_to_admin
     executor.start_polling(dp, on_startup=say_to_admin)

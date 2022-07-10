@@ -53,12 +53,12 @@ async def resender(message: Message):
 async def starter(message: Message):
     await bot.send_message(chat_id=message.from_user.id,
                            text=f'welcome to the chat with this bot mr/mrs {message.from_user.first_name}\n\
-        commands:(\'/ls_words\' - give you your last parsed words in special message; )\n\
-        special message using: \nclick the buttons (1,2,...) to point word in same row as number on the button like known(than word will dissappear from this message and will add to  your own dict of known words);\n\
-            click the buttons (\'<-\', \'->\') to navigate with words in message;\n\
-            click the button (\'send file with recent words\') to download unknown words(words that this message contains) as .txt file;\n\
-            click the button (\'cross with known words\') to remove words that you pointed as known in previous editig of special message(those words were added to your own dictionary of known words)\n\
-            P.S.: the button (\'cross with known words\') is required with words from dictionary of known words, so this button will be unavaible until you fill up your dictionary with words and use command (\'/ls_words\')')
+        commands:(\'/ls_words\' - give you your last parsed tokens in special message; )\n\
+        special message using: \nclick the buttons (1,2,...) to point word in same row as number on the button like known(than word will dissappear from this message and will add to  your own dict of known tokens);\n\
+            click the buttons (\'<-\', \'->\') to navigate with tokens in message;\n\
+            click the button (\'send file with recent tokens\') to download unknown tokens(tokens that this message contains) as .txt file;\n\
+            click the button (\'cross with known tokens\') to remove tokens that you pointed as known in previous editig of special message(those tokens were added to your own dictionary of known tokens)\n\
+            P.S.: the button (\'cross with known tokens\') is required with tokens from dictionary of known tokens, so this button will be unavaible until you fill up your dictionary with tokens and use command2connect (\'/ls_words\')')
 
 
 @dp.message_handler(commands=['help'])
@@ -70,7 +70,7 @@ async def helper(message: Message):
 async def words_manager(message: Message, file_name: str = None):
     if os.path.exists(Parser_folder_path):
         pers_id = message.from_user.id
-        print(f'pers_id:{pers_id}, command:\'/ls_words\'''')
+        print(f'pers_id:{pers_id}, command2connect:\'/ls_words\'''')
         file_names = os.listdir(Parser_folder_path)
         print(f'file_names:{file_names}')
         '''required_file_names = list(filter(lambda x: x.strip('.txt')[x.rindex('_#id_') + 5:] ==  str(pers_id), 
@@ -147,7 +147,7 @@ async def visible_text_manager(callback_query: types.CallbackQuery):
             await bot.edit_message_text(chat_id=pers_id, text=output_str,
                                         reply_markup=main_keyboard, message_id=msg_id)
         else:
-            await bot.edit_message_text(chat_id=pers_id, text='You ran out of words',
+            await bot.edit_message_text(chat_id=pers_id, text='You ran out of tokens',
                                         message_id=msg_id)
 
     elif person and '_move_' in butt_token:
@@ -171,7 +171,7 @@ async def visible_text_manager(callback_query: types.CallbackQuery):
         # /////////////////////////////////////////////////////////////////////
         old_file_name = f'buffer_file_pers_id_{pers_id}.txt'
         file_path = Buffer_folder_name + '\\' + old_file_name
-        new_file_name = 'words.txt'
+        new_file_name = 'tokens.txt'
         new_file_path = Buffer_folder_name + '\\' + new_file_name
 
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -218,7 +218,7 @@ async def show_words(person, call_token):
     words_strs = person.get_visible_strs()
     (output_str, main_keyboard) = await prepare_msg_type1(words_strs)
     if call_token == 'ls_words' and len(person.known_words_strs) > 0:
-        button = types.InlineKeyboardButton(text='cross with known words',
+        button = types.InlineKeyboardButton(text='cross with known tokens',
                                             callback_data='manage_vis_text_butt_cross_known')
         main_keyboard.row(button)
 
@@ -235,7 +235,7 @@ async def prepare_msg_type1(words_strs):
                for i in range(1, len(words_strs) + 1)]
     main_keyboard.add(*buttons)
     manage_butts = [types.InlineKeyboardButton(text='<-', callback_data='manage_vis_text_butt_move_left'),
-                    types.InlineKeyboardButton(text='send file with recent words',
+                    types.InlineKeyboardButton(text='send file with recent tokens',
                                                callback_data='manage_vis_text_butt_send_words'),
                     types.InlineKeyboardButton(text='->', callback_data='manage_vis_text_butt_move_right')]
     main_keyboard.row(*manage_butts)

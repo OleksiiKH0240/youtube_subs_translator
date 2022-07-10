@@ -1,14 +1,1200 @@
-again here we all use Google
-Trends it is an implementation of Google
-Translate API and we will see how to
-translate text then we will get the
-available languages that we can use and
-finally how to detect possible mistakes
-okay the first thing that we need to do
-is install Google Trends in a PowerShell
-terming okay so we type pip install
-Google Trends it enter successfully
-installed now we can close the terminal
-here in the code we will do three things
-the first thing is translate the second
-thing is list supported languages and
+Rengoku...
+
+Rengoku!
+
+Rengoku!
+
+I...
+
+I will fulfill my duty!
+
+I will not allow anyone here to die!
+
+Flame Breathing...
+
+Esoteric Art!
+
+Set your heart ablaze.
+
+Rengoku!
+
+UPPER THREE
+
+Set your heart ablaze.
+
+Rengoku...
+
+MUGEN
+
+KAKUSHI
+
+Rengoku...
+
+Rengoku...
+
+Rengoku...
+
+Stop that crying!
+
+And you! Snap out of it for crying out loud!
+We're gonna train now!
+
+I see.
+
+Tanjiro said that?
+
+Don't run away, you coward!
+
+Don't run away!
+
+The Demon Slayer Corps...
+
+is always fighting you demons in the dark
+of the night where you have the advantage!
+
+Don't run away, you bastard!
+
+You bastard!
+
+You coward!
+
+Let us all carry on
+Kyojuro's will together.
+
+IWAWADO BOOK STORE
+
+My, he certainly seems
+like a bright young child.
+
+Seriously... Not being blessed with
+my own offspring had made me despondent...
+
+but now that such a fine boy
+has come to us, I can rest easy.
+
+DEMON SLAYER: KIMETSU NO YAIBA
+ENTERTAINMENT DISTRICT ARC
+
+EPISODE 1:
+SOUND HASHIRA TENGEN UZUI
+
+Each day is so blissful.
+I couldn't be happier.
+
+He's such a kind little kid.
+
+So considerate toward the help.
+
+I've never seen a child his age
+who was so gentle-mannered.
+
+Blood has nothing to do
+with parental affection.
+
+I'm going to have that boy
+take over my business for me!
+
+I really envy you! I wish I could
+trade our idiot son for him!
+
+He's a fine boy. No doubt about it.
+
+It's just that...
+
+As he suffers from a skin disease,
+he can't go outside during the day.
+
+Oh dear, the poor thing.
+
+I'm hoping that we can develop
+a wonder drug for him at my company.
+
+The sooner the better.
+
+I am here to report to you...
+
+Master Muzan.
+
+Have you found what I asked for?
+
+I looked into it but came up empty.
+
+Having no way
+to even confirm its existence...
+
+I was unable to locate
+the Blue Spider Lily.
+
+And?
+
+I will continue to do my utmost
+to live up to your expectations, Master Muzan.
+
+As ordered, I did eliminate one Hashira,
+so you may rest assured.
+
+You seem to have
+the wrong idea about this...
+
+Akaza.
+
+So what if you disposed of one Hashira?
+As if that were such a feat.
+
+A demon beating a human
+is a forgone conclusion.
+
+What I want is for the Demon Slayer Corps
+to be annihilated.
+
+Pummel the life out of every last one of them
+
+and never let another one
+enter my line of sight again.
+
+It's hardly a complicated task.
+
+And yet, I'm still waiting for it to happen.
+What do you have to say about that?
+
+You boast of having killed a Hashira,
+
+but there were three
+other Demon Slayers there.
+
+Why did you fail to kill them off
+
+after I made a point of sending you there
+because you happened to be nearby?
+
+Akaza...
+
+Akaza...
+
+Akaza...
+
+Akaza!
+
+You have disappointed me.
+
+To think that you suffered a blow
+by a swordsman who isn't even a Hashira...
+
+How far you've fallen, Upper Three.
+
+Dismissed.
+
+I just heard a loud noise.
+
+Are you okay?
+
+You coward!
+
+You coward!
+
+I know what you look like, boy!
+
+The next time we meet, I'm going to spray
+your brain matter everywhere!
+
+DEMON SLAYER: KIMETSU NO YAIBA
+ENTERTAINMENT DISTRICT ARC
+
+DEMON SLAYER: KIMETSU NO YAIBA
+ENTERTAINMENT DISTRICT ARC
+
+So, even Tanjiro can sink into despair
+and feel hopeless, too.
+
+Well, why not?
+
+Even someone who sounded
+as well-trained as Rengoku ended up dead.
+
+That would make anyone sad
+and fall right apart.
+
+Look at Inosuke. Even he was bawling.
+
+I guess he was beyond frustrated.
+
+Even the strongest person can suffer
+and feel sorrow, huh?
+
+Even still, since there's no point
+in cowering forever,
+
+they beat their wounded souls again and again
+and get back on their feet.
+
+I'm sure that Rengoku
+was that kind of person, too.
+
+That's the kind of sound he gave off.
+
+Not that it wasn't a little odd,
+but his sound was strong and kind.
+
+Tanjiro, I secretly snagged us
+some bean paste buns, so let's eat!
+
+Oh no! Tanjiro's missing!
+
+Oh! Zenitsu!
+
+I'm so sorry!
+
+No, I'm totally fine.
+
+What's wrong?
+
+Your focus is totally off!
+
+I really am sorry!
+Tanjiro's nowhere to be found, so...
+
+Tanjiro's wounds aren't even healed yet,
+but he's been training,
+
+so Lady Shinobu
+has really been on edge, too!
+
+He was told to rest in bed!
+
+That stomach wound of his
+was pretty deep, right?
+
+How dumb is that?
+
+Rengoku's crow...
+
+Thanks!
+
+He's carrying out Rengoku's will
+by guiding me to his house.
+
+Are you Senjuro?
+
+Have you heard of
+Kyojuro Rengoku's passing?
+
+I have messages from Kyojuro
+for his father and for you, Senjuro.
+
+So I've come to relay them to you.
+
+From my brother?
+
+I already know
+what happened to my brother.
+
+Excuse me!
+
+Are you all right?
+Your face is deadly pale!
+
+Knock it off!
+
+He would've only left
+the most worthless of messages, anyway.
+
+CLASSIC
+BARLEY SHOCHU
+SAKE
+
+Look what he got for becoming a swordsman
+when he had no real talent!
+
+No wonder he died!
+
+Worthless!
+
+What a fool of a son Kyojuro was!
+
+A person's talent level is determined
+the day he's born.
+
+Only a mere handful have any talent.
+
+The rest are just members of the masses!
+
+Completely useless trash, they are!
+
+Kyojuro was in that group.
+
+He had no real talent.
+
+So why wouldn't he end up dead?
+
+Senjuro!
+
+The funeral's over now.
+
+It's high time you wiped
+that gloomy look off your face!
+
+Hold on!
+
+That's going way too far!
+
+Please stop talking about him like that!
+
+Who the hell are you?
+
+Get out! Don't you dare
+set foot on our property!
+
+I'm with...
+
+the Demon Slayer Corps!
+
+You...
+
+I get it now! You...
+
+You're a wielder of the Sun Breathing
+technique, right? Am I right?
+
+Sun Breathing?
+
+What are you talking about?
+
+So fast!
+
+Those were no amateur moves!
+
+Father! Please stop!
+
+Just look at his face!
+Can't you see that he's not well?
+
+You keep your mouth shut!
+
+That's enough, you monster!
+
+Why are you acting like this, anyway?
+
+Insulting your own child,
+who's lost his life...
+
+Striking him...
+
+What is it that you want to do?
+
+You...
+
+You're mocking us, aren't you?
+
+What makes you say that?
+
+I have no idea what you mean!
+Now you're just slandering me!
+
+That's because you're a wielder
+of the Sun Breathing technique!
+
+I know all about those earrings!
+
+I-It was in the book!
+
+Sun Breathing...
+
+Could he be talking about Hinokami Kagura?
+
+First Breathing.
+
+The first breathing technique ever created!
+
+The most powerful of them all!
+
+And all the other techniques
+are derived from Sun Breathing!
+
+All the others just mimic Sun Breathing.
+
+They're just cheap imitations,
+retrograde versions of Sun Breathing!
+
+Fire, Water, Wind...
+
+All of them!
+
+What does he mean?
+
+We've been charcoal burners
+for generations.
+
+We have the records to prove it.
+
+Sun Breathing...
+
+Hinokami Kagura...
+
+No.
+
+Never mind that.
+
+There's something
+more important than that!
+
+Don't get cocky just because you're a wielder
+of the Sun Breathing technique, boy!
+
+As if I could!
+
+Can't you see how devastated I am
+by my own weakness?
+
+Why, you...
+
+miserable old fart!
+
+Look out! My father is...
+
+Don't you badmouth Rengoku!
+
+Don't you dare!
+
+...a former Hashira!
+
+Please stop... Father!
+
+But why?
+
+If Hinokami Kagura
+is a Sun Breathing technique...
+
+then, that day, why wasn't I
+able to save Rengoku?
+
+Why?
+
+Why?
+
+Why couldn't I?
+
+Now look what I've done.
+
+Here's some tea.
+
+Please drink it.
+
+Oh, thank you.
+
+Sorry. I mean,
+for head-butting your father.
+
+Is he okay?
+
+I think he'll be fine.
+
+He even went out to buy
+some sake once he came to.
+
+Is that right?
+
+Thank you very much.
+
+Huh?
+
+You took a load off my mind.
+
+I could never even talk back
+when he badmouthed my brother.
+
+What were my brother's last moments like?
+
+I see.
+
+So, my brother was valiant until the end.
+
+Thank you very much.
+
+Oh no, please...
+
+Forgive me for coming up short.
+
+Please don't worry about it.
+
+I'm sure that my brother told you
+the same thing, didn't he?
+
+Something in a book
+my father often read rang a bell.
+
+RECORD OF THE TWENTY-FIRST FLAME HASHIRA
+
+I believe this must be it.
+
+Th-Thank you very much!
+
+Is what you'd like to know in those pages?
+
+L-Look at this!
+
+DEMON SLAYER: KIMETSU NO YAIBA
+ENTERTAINMENT DISTRICT ARC
+
+DEMON SLAYER: KIMETSU NO YAIBA
+ENTERTAINMENT DISTRICT ARC
+
+Look at this!
+
+It's ripped to shreds.
+
+It's unreadable for the most part.
+
+Was it like this from the start?
+
+No. That's not possible.
+
+After all, the Flame Hashira Chronicles
+are stored very carefully.
+
+I believe it was my father
+who tore those pages.
+
+I'm so sorry.
+
+No.
+
+It's not your fault, Senjuro.
+
+Please don't feel bad about it.
+
+But you came all this way for it
+
+only to end up learning nothing about Hinokami
+Kagura or what my father called "Sun Breathing."
+
+It's all right.
+
+I know what it is that I must do.
+
+I'm going to train harder.
+
+Even when it comes to Hinokami Kagura...
+
+though I know how to perform the dance...
+
+I still haven't managed to master it.
+
+Is that right?
+
+When I use Hinokami Kagura
+while maintaining Total Concentration,
+
+I can't move my body the way I want to.
+
+I'm to blame for that.
+
+I can't physically keep up with it.
+
+My stamina's improved
+thanks to Total Concentration, Constant,
+
+but it's still not enough.
+
+I'm supposed to gain stamina by the day
+if I can maintain Constant,
+
+but I can't get stronger in an instant.
+
+That day, if only I'd been more powerful...
+
+In an instant...
+
+If only there'd been a way for me
+to become strong enough to save Rengoku...
+
+I've tried to come up with one.
+
+But there's no such convenient method.
+
+There just weren't any shortcuts.
+
+All I can do is struggle.
+
+To move forward by pulling out all the stops
+to do whatever it is that I can.
+
+No matter how grueling
+or frustrating it may be.
+
+And then, I...
+
+am going to become
+a powerful Hashira like Kyojuro!
+
+No matter what!
+
+My brother didn't have a Tsuguko.
+
+Normally, I would've become his Tsuguko...
+
+and would've had to train
+as a Hashira reserve.
+
+But...
+
+my Nichirin Sword failed to change color.
+
+Nichirin Swords don't change color until
+you've acquired a certain level of sword skills...
+
+but no matter how much training
+I underwent, it was no good.
+
+I'm going to forget
+about becoming a swordsman...
+
+and be useful to others in some other way.
+
+This will break the line
+of the Flame Hashira
+
+and inflict damage on its long history...
+
+but I'm sure that my brother...
+
+will forgive me.
+
+Walk down the path that you feel is right.
+
+If anyone dares
+to badmouth you, Senjuro,
+
+I'll personally head-butt them!
+
+I don't think that's a good idea.
+
+I'll restore the Flame Hashira Chronicles myself.
+I'll look into other books, as well.
+
+I'll also ask my father, and if I find out
+anything, I'll send word through our crow.
+
+I'm glad that I got to talk to you.
+
+Please get home safely.
+
+No, I'm the one
+who should be thanking you.
+
+Wait, Tanjiro.
+
+Please take this.
+
+It's my brother's Nichirin Sword guard.
+
+I-I can't accept
+something as valuable as this!
+
+I...
+
+I want you to take it with you.
+
+I'm sure it will protect you.
+
+Thanks.
+
+Excuse me.
+
+Are you back?
+
+Um, our visitor—
+
+Shut up!
+
+I don't give a damn! Get out of here!
+
+B-But my brother's message to you—
+
+Worthless!
+
+It's probably just his gripes toward me.
+
+I already know what he'd say!
+
+Now get out of my sight!
+
+Very well.
+
+"Please take care of yourself."
+
+Those are the only words
+that my brother left behind for you, Father.
+
+I'll be heading out now, Father.
+
+Kyojuro...
+
+Do I have a fever?
+
+I can't breathe.
+
+Don't worry, Nezuko.
+
+The Butterfly Mansion's not far off.
+
+Huh?
+
+Haganezuka!
+
+You lost your sword?
+Are you out of your mind, you fool?
+
+You deserve to die ten thousand times over!
+
+I'm sorry! I'm sorry!
+Please! I'm truly sorry!
+
+He says that he got chased by Haganezuka
+until close to daybreak.
+
+So that's why you're not eating?
+
+Gimme!
+
+This way!
+
+Sorry!
+
+If Aoi hadn't calmed him down for me,
+he would've kept chasing me until noon.
+
+Would anyone like seconds?
+
+Would you like some?
+
+Gimme!
+
+Aoi, thank you for yesterday.
+
+You, too, Sumi, Kiyo and Naho.
+
+Don't mention it. It was nothing.
+
+What's Haganezuka up to now?
+
+Haganezuka? Oh, he's sitting
+on the veranda, eating rice dumplings.
+
+And it seems like he's finally back
+in a good mood!
+
+Thank goodness!
+
+Rice dumplings
+are Haganezuka's favorite food!
+
+Next time he starts fuming,
+you should go buy some.
+
+I want to have some, too!
+
+Fine, I'll go get you some later, all right?
+
+Help! I'm gonna die!
+
+100 more to go!
+
+Almost four months had gone by
+since Rengoku's death.
+
+Every day, we trained...
+
+while following the crow's orders in between.
+
+And we each headed out
+to take down demons.
+
+Take care!
+
+Zenitsu no longer threw fits,
+even when he had to go on solo missions.
+
+Give me a lock of Nezuko's hair!
+I promise I'll do my best!
+
+Inosuke became
+even more aggressive than before.
+
+We're gonna run hard
+until our bones shatter!
+
+C'mon, you guys!
+
+Not being all alone...
+
+You're almost there! You can do it!
+
+Nezuko! Nezuko!
+
+I think it's a blessing.
+
+Nezuko!
+
+North-northwest! North-northwest!
+
+Destroy the demon
+lurking in the mountain shrine!
+
+North-northwest! North-northwest!
+
+Nezuko, are you okay?
+
+You're not getting wet
+from the rain, are you?
+
+The demon should be
+around here somewhere.
+
+Let's do this, Nezuko!
+
+Dammit! I messed up!
+
+We're going to end up in the village!
+
+D-Dammit!
+
+What kind of Demon Slayer is that?
+
+Provoking a demon like me...
+
+You're finished.
+
+Better resign yourself.
+
+I'm really sorry about this.
+
+Don't gimme that...
+
+you little punk!
+
+Total Concentration...
+
+Water Breathing!
+
+Fourth Form...
+
+Striking Tide!
+
+That's strange.
+
+I know I heard something.
+
+I'm exhausted.
+
+Nezuko, we'll be reaching
+the Butterfly Mansion soon.
+
+Please stop, will you?
+
+Nooooo!
+
+Please let us go! I...
+
+This girl is...
+
+I'm begging you!
+
+Stop yammering. Just shut up!
+
+Please stop!
+
+Please let them go!
+
+K-Kanao!
+
+Mission... Order... Shinobu... Superior...
+Aoi... Naho... Hashira... Coin... Order...
+
+Coin... Coin!
+I'll decide by flipping a coin!
+
+HEADS
+
+Follow your heart.
+
+- Kanao!
+- Lady Kanao!
+
+Kanao...
+
+- Lady Kanao...
+- Lady Kanao...
+
+Could you be more unflashy?
+Stop that yanking.
+
+Did you forget
+that you just received orders?
+
+Say something, dammit!
+
+You really are unflashy!
+
+Ch-Charge!
+
+Charge!
+
+- Charge!
+- Charge!
+
+Hey! You guys!
+Knock it off right now!
+
+How dare you treat girls like that!
+Let go of them!
+
+No. Are they swarming around him?
+
+Or being held? Which is it?
+
+He's kidnapping them!
+Please rescue them!
+
+Why, you...
+
+You little idiot!
+
+Are you all right?
+
+Yes!
+
+You're a fool.
+
+I'm Lord Tengen Uzui, former shinobi.
+
+A flashy man renown around these parts.
+
+Do you really think I'd fall victim
+to one of your pissant head-butts?
+
+Let Aoi and Naho go,
+you lousy kidnapper!
+
+You heard him! You heard him!
+
+What do you think you're doing?
+
+Hentai! Hentai!
+
+Hey, you two! Who do you think
+you're talking to, dammit?
+
+I'm your superior!
+I'm a Hashira, dammit!
+
+I don't acknowledge you as a Hashira!
+
+Huh!
+
+Don't "huh" me!
+
+Who cares if you don't acknowledge me?
+
+You little bottom-feeder!
+Did your brain matter explode or what?
+
+I'm taking these two because I need
+some female Corps members for a mission!
+
+And I don't need permission from Kocho
+to take anyone who's not a Tsuguko!
+
+Naho isn't a member of the Corps!
+Can't you see she's not wearing the uniform?
+
+I don't need her, then.
+
+How could you do such a thing,
+you inhuman brute?
+
+He dropped me!
+
+For now, I'm just going to take
+this one on my mission.
+
+Not that she looks like she'll be of any use.
+
+But somehow,
+she is a Corps member, at least.
+
+Everyone has their own personal reasons,
+so don't be so insensitive and stir things up!
+
+Give us back Aoi!
+
+Lame. So lame.
+
+No wonder the Demon Slayer Corps
+is getting weaker and weaker,
+
+with guys like you wailing and moaning
+in your unflashy way!
+
+We'll go in place of Aoi!
+
+What do you mean by "we"?
+
+What's going on, you three?
+What do you have to say?
+
+I just got back this second,
+but I have power to spare!
+
+I'll be glad to go!
+
+Y-Y-You let Aoi go, you hear me?
+
+You may be a muscular monster,
+but I'm not b-b-b-backing down! No, sir!
+
+Is that right?
+Then I guess I'll take you with me.
+
+You backed down just like that, huh?
+
+But remember this...
+Don't you dare defy me!
+
+Tanjiro...
+
+He's gigantic.
+
+So? Where are we going, old man?
+
+The number one spot in Japan that's dripping
+with lust and desire. A super-flashy place.
+
+The Entertainment District
+where demons reside.
+
+NIN-NIN
+
+Nin-nin!
+
+CELEBRATING THE OPENING
+OF THE ENTERTAINMENT DISTRICT ARC!
+
+So, it's finally underway!
+
+Anyway, I hope you three
+are really up to this mission!
+
+I don't know much about you.
+
+So introduce yourselves
+right now on the spot!
+
+All right, I'll go first!
+
+My name is Tanjiro Kamado.
+
+TANJIRO KAMADO
+
+My favorite food is fatsia sprouts.
+
+FAVORITE FOOD:
+FATSIA SPROUTS
+
+NEZUKO
+
+This is my little sister, Nezuko.
+
+FAVORITE FOOD:
+KONPEITO
+
+She loves konpeito.
+
+ZENITSU AGATSUMA
+
+My name is Zenitsu Agatsuma.
+
+I love sweets most of all!
+
+Not to mention high-quality eel!
+
+FAVORITE FOOD:
+HIGH-QUALITY EEL
+
+Who asked you about that stuff?
+
+I'm asking what you can do
+to fight off demons!
+
+The demons in the Entertainment District
+are crazy strong!
+
+Nooooo!
+
+I don't want to die!
+I don't want to die! Nooooo!
+
+Then all you have to do is fight
+so you won't die!
+
+I don't even want
+to run into a powerful demon!
+
+I still haven't done anything
+with Nezuko yet, so there's no way!
+
+Shut up for a second.
+
+I'm Inosuke Hashibira!
+
+If you want to hear about me,
+you'll have to take me out first!
+
+What's this guy's problem,
+shooting off his mouth like that?
+
+What did you say?
+
+Now it's time for today's Taisho-era secret!
+
+Let me introduce myself.
+
+I was born into a shinobi clan.
+
+So when I was a kid, I led an unflashy life
+in the shadows as a shinobi.
+
+Really?
+
+No way!
+
+You shouldn't lie.
+
+It's not a lie!
+
+All my pent-up resentment
+from those days exploded,
+
+turning me
+into the flashy guy I am today.
+
+But that may be
+because I always had it in me.
+
+I want you three to show me some
+flashy moves during this mission, okay?
+
+I'm picking up the scent of a strong sense
+of responsibility from this man.
+
+We can trust him.
+
+What's with that smirk on your face?
+
+Next, Episode 2,
+"Infiltrating the Entertainment District."
+
+Do your jobs, you three!
+
+Right!
+
+TO BE CONTINUED

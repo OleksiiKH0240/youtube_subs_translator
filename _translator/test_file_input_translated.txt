@@ -1,56 +1,1125 @@
-it - Это
-detect - обнаруживать
-terming - Термин
-close - Закрыть
-first - первый
-get - получать
-finally - Ну наконец то
-is - является
-three - три
-of - из
-need - нужно
-available - имеется в наличии
-will - буду
-here - здесь
-powershell - PowerShell
-languages - Языки
-then - потом
-in - в
-pip - питье
-how - как
-type - тип
-so - так
-can - может
-implementation - реализация
-supported - поддерживается
-list - список
-enter - войти
-use - использовать
-see - видеть
+finger - палец
+mother - мать
+president - президент
+hotel - отель
+chip - обломок
+guy - парень
+parts - края
+boyfriend - дружок
+tape - лента
+arms - оружие
+lake - озеро
+topic - тема
+tears - слезы
+address - адрес
+schools - средневековые университеты
+spelling - написание
+neighbours - соседи
+problem - проблема
+tea - чай
+ground - земля
+line - линия
+picture - рисунок
+son - сын
+search - поиск
+friends - друзья
+light - свет
+baby - ребенок
+rash - сыпь
+invitations - приглашение
+lady - леди
+appointment - назначение
+fireman - пожарный
+form - форма
+novel - роман
+prints - принты
+results - результаты
+fine - штраф
+ups - ups
+heat - тепло
+bus - автобус
+movie - кино
+fade - тускнеть
+supply - поставка
+make - марка
+call - вызов
+illness - болезнь
+youth - молодежь
+will - воля
+revenge - месть
+days - эпоха
+store - магазин
+kitchen - кухня
+answers - ответы
+change - изменение
+capital - капитал
+crib - детская кроватка
+jail - тюрьма
+decision - решение
+library - библиотека
+teeth - зубы
+morning - утро
+accessories - принадлежности
+database - база данных
+judge - судья
+twins - двойняшки
+town - город
+trip - поездка
+wheelchair - инвалидное кресло
+ransack - тщательный обыск
+weight - вес
+vacation - отпуск
+roses - румянец
+year - год
+ticket - билет
+flowers - цветок
+bully - хулиган
+story - история
+rehearse - репетиция
+chips - чипсы
+future - будущее
+sheet - лист
+bike - велосипед
+cost - расходы
+adult - взрослый человек
+prisoners - заключенные
+origami - оригами
+bottom - дно
+neighbourhood - окрестности
+summer - лето
+dinner - ужин
+grandparents - дедушка и бабушка
+camping - кемпинг
+care - уход
+storm - шторм
+brother - брат
+department - отдел
+clown - клоун
+father - отец
+compare - сравнение
+organize - организовать
+team - команда
+bill - законопроект
+game - игра
+pieces - шт
+mall - место для гулянья
+city - город
+driveway - дорога
+run - пробег
+students - студенты
+books - сборник отчетов
+professor - профессор
 mistakes - ошибки
-api - API
-that - тот
-install - установить
-trends - тенденции
-thing - предмет
-a - 
-possible - возможно
-code - код
-an - 
-and - и
-successfully - успешно
-now - сейчас же
-text - текст
-to - к
-do - делать
-terminal - Терминал
-all - все
-we - мы
-installed - установлен
+temperature - температура
+task - задача
+dream - мечта
+regulations - регламент
+snakes - змеи
+event - событие
+car - автомобиль
+wallet - бумажник
+blanks - пробелы
+date - дата
+exercise - упражнение
+today - сегодняшний день
+dog - собака
+relationship - связь
+girlfriend - подруга
+breakfast - завтрак
+people - люди
+wedding - свадьба
+hat - шляпа
+floor - этаж
+pox - сифилис
+paper - документ
+foods - еда
+member - член
+night - ночь
+front - перед
+weekend - уик-энд
+clothing - одежда
+fire - огонь
+am - являюсь
+month - месяц
+children - дети
+records - документация
+sisters - сестер
+theatre - театр
+house - дом
+ones - одинаково
+lunch - обед
+lottery - лотерея
+fall - падение
+meeting - встреча
+vehicle - автомобиль
+college - колледж
+purchases - покупка
+uncle - дядя
+names - имен
+family - семья
+noon - полдень
+bedroom - спальня
+skates - коньки
+1st - 1-й
+furniture - мебель
+hiking - пеший туризм
+cheer - настроение
+grandmother - бабушка
+answer - ответ
+party - группа
+firemen - пожарные
+office - офис
+chocolate - шоколад
+music - музыка
+energy - энергия
+restaurant - ресторан
+tests - тест
+deprivation - лишение
+special - экстренный выпуск
+frog - лягушка
+invite - приглашение
+guards - гвардия
+condition - состояние
+seat - сиденье
+position - положение
+boil - кипение
+evidence - данные
+step - шаг
+respect - уважение
+brand - тавро
+test - тест
+count - подсчет
+parents - родители
+engine - двигатель
+room - комната
+money - деньги
+shoes - обувь
+plane - самолет
+scissors - ножницы
+news - новости
+tonight - сегодняшний вечер
+reference - ссылка
+radio - радио
+point - точка
+child - ребенок
+dispose - утилизировать
+socks - носки
+none - никто
+plan - план
+top - верх
+part - часть
+give - податливость
+hurricane - ураган
+letters - письмена
+station - станция
+soccer - футбол
+name - имя
+strength - сила
+sweets - сладкое
+maths - математика
+pay - плата
+boss - босс
+nephew - племянник
+cosmetics - косметика
+camera - камера
+hands - экипаж
+carnivore - плотоядное животное
+fiancé - жених
+water - воды
+living - жизнь
+price - цена
+yard - двор
+perfume - духи
+writer - писатель
+food - еда
+thank - благодарность
+posters - плакаты
+racing - разгон
+doctor - доктор
+newspaper - газета
+remove - удаление
+art - искусство
+return - возвращение
+ballet - балет
+habit - привычка
+park - парк
+counter - счетчик
+garbage - мусор
+teacher - учитель
+volunteer - волонтер
+try - попытка
+altar - алтарь
+teachers - преподаватель
+mask - маска
+love - любовь
+shampoo - шампунь
+earrings - серьги
+tv - телевидение
+dress - платье
+company - компания
+turn - очередь
+employees - сотрудники
+work - работа
+come - приходить
+rate - скорость
+account - счет
+surface - поверхность
+sign - знак
+lines - слова роли
+hockey - хоккей
+item - пункт
+minutes - протокол
+liquid - жидкость
+piano - пианино
+snowboards - сноуборд
+bikes - велосипеды
+information - информация
+secret - секрет
+cat - кошка
+woman - женщина
+keys - ключи
+place - место
+gang - банда
+funeral - похороны
+pants - брюки
+arrive - прибыть
+mate - мате
+password - пароль
+samples - образцы
+feet - ноги
+stop - остановка
+reasons - причина
+times - времена
+ame - ame.
+groceries - бакалейные товары
+airport - аэропорт
+number - номер
+originate - происходить
+thief - вор
+drop - падение
+person - человек
+move - шаг
+meat - мясо
+jug - кувшин
+behaviour - поведение
+invent - изобретать
+fireplace - камин
+sleep - сон
+police - полиция
+tree - дерево
+mail - почта
+time - время
+class - сорт
+stamp - марка
+fill - заполнение
+offices - службы при доме
+prices - цены
+phone - телефон
+half - половина
+sister - сестра
+check - проверка
+decline - снижение
+notes - внимание
+honey - мед
+cousin - двоюродный брат
+internet - интернет
+school - школа
+leave - отпуск
+emotion - эмоция
+jeans - джинсы
+hair - волосы
+air - воздух
+detergent - моющее средство
+table - стол
+thanks - благодарность
+toilet - туалет
+cards - карты
+years - возраст
+week - неделя
+tax - налог
+weather - погода
+trick - трюк
+grandfather - дед
+machine - машина
+volume - объем
+job - работа
+break - перерыв
+skin - кожа
+shop - магазин
+device - устройство
+conditioner - кондиционер
+sample - образец
+dad - папа
+textbooks - учебники
+notice - уведомление
+show - шоу
+attack - атака
+lights - светофор
+goodbye - прощание
+diet - диета
+death - смерть
+winter - зима
+friend - друг
+flow - поток
+hour - час
+ad - объявление
+bank - банка
+trail - след
+bicycle - велосипед
+essay - эссе
+pair - пара
+bar - бар
+toothpaste - зубная паста
+start - начало
+places - места
+balloons - надувные шары
+song - песня
+bre - братан
+door - дверь
+book - книга
+chair - стул
 things - вещи
-okay - хорошо
-translate - перевести
-second - второй
-google - Google
-again - опять таки
-the - то
+thing - вещь
+body - тело
+chicken - курица
+coat - пальто
+home - дом
+church - церковь
+lot - много
+brakes - тормоза
+smoking - курение
+man - человек
+homework - домашнее задание
+website - веб-сайт
+prevent - не допустить
+question - вопрос
+ex - бывший муж
+offer - предложение
+lack - отсутствие
+husband - муж
+bites - укусы
+letter - письмо
+insult - оскорбление
+washing - стирка
+bride - невеста
+bills - счета
+wife - жена
+soap - мыло
+weapons - оружие
+graduation - градация
+group - группа
+boots - коридорный
+sweaters - свитер
+photos - фотографии
+calculation - расчет
+kids - ребятишки
+street - улица
+fence - забор
+project - проект
+mobility - мобильность
+closet - чулан
+your - ваш
+this - это
+all - все
+everyone - все
+something - нечто
+you - вас
+them - их
+our - наши
+'s - с.
+they - они
+yourself - себе
+what - что
+he - он
+that - то
+it - это
+she - она
+bre - братан
+his - его
+him - ему
+we - мы
+her - ее
+me - мне
+there - там
+us - нас
+i - я
+somebody - кто-то
+nothing - ничего
+its - ее
+both - оба
+nobody - никто
+my - мои
+sit - сидеть
+few - немногие
+total - полный
+long - длинный
+small - небольшой
+best - лучший
+great - большой
+unhappy - несчастный
+successful - успешный
+mobile - мобильный
+same - одинаковый
+final - окончательный
+next - следующий
+interested - заинтересованный
+hidden - скрытый
+substitute - заменять
+turret - башня
+sick - больной
+elderly - пожилой
+little - небольшой
+short - короткий
+cold - холодный
+informal - неофициальный
+red - красный
+light - световой
+mad - безумный
+windy - ветреный
+alive - живой
+amazing - удивительный
+other - другой
+nice - хороший
+bright - яркий
+careful - осторожный
+mean - средний
+wet - мокрый
+angry - сердитый
+back - задний
+third - третий
+last - последний
+particular - особый
+favourite - любимый
+sad - печальный
+impatient - нетерпеливый
+bad - плохой
+lucky - счастливый
+skateboard - скейтборд
+able - в состоянии
+understandable - понятный
+late - поздний
+different - другой
+dark - темный
+round - круглый
+stupid - глупый
+old - старый
+sure - верный
+extra - дополнительный
+black - темный
+empty - пустой
+clean - чистый
+positive - положительный
+inferior - низший
+good - хороший
+comic - комический
+fatty - жировой
+loose - свободный
+more - больший
+less - меньший
+fancy - причудливый
+separate - отдельный
+surprised - удивленный
+free - бесплатный
+upset - расстроенный
+young - молодой
+rehearse - репетиция
+rely - полагаться
+warm - теплый
+electrical - электрический
+vigilant - бдительный
+close - близкий
+new - новый
+excited - возбужденный
+tidy - опрятный
+most - наибольший
+smaller - меньший
+wrong - неправильный
+happier - счастливее
+hot - жаркий
+crazy - сумасшедший
+formal - формальный
+difficult - трудный
+many - многие
+first - первый
+big - большой
+social - социальный
+afraid - испуганный
+care - заботиться
+add - добавлять
+die - умереть
+test - тестировать
+count - считать
+suffer - страдать
+cross - пересекать
+visit - побывать
+compete - конкурировать
+fill - заполнять
+sort - сортировать
+rescue - спасать
+phone - звонить по телефону
+operate - работать
+remark - высказаться
+confuse - смешивать
+check - проверять
+become - становиться
+proceed - продолжать
+miss - скучать
+eat - есть
+cancel - аннулировать
+mix - смешивать
+hit - бить
+stick - придерживаться
+organize - организовать
+review - пересмотреть
+prepare - готовить
+consume - потреблять
+tolerate - терпеть
+get - получать
+leave - оставлять
+hand - передавать
+point - указывать
+switch - переключаться
+fly - летать
+communicate - сообщить
+run - работать
+give - давать
+win - выигрывать
+rent - сдавать в аренду
+stay - оставаться
+grab - захватывать
+hang - висеть
+go - идти
+grow - расти
+wait - ждать
+buy - купить
+resemble - походить на
+use - использовать
+investigate - расследовать
+pay - платить
+need - нуждаться
+wake - разбудить
+raise - поднимать
+cook - готовить
+blow - дуть
+appear - появляться
+ask - просить
+take - принимать
+break - сломить
+live - жить
+stand - стоять
+drink - пить
+choose - выбирать
+paint - покрасить
+shop - делать покупки
+set - устанавливать
+increase - увеличивать
+register - регистрировать
+feel - чувствовать
+figure - фигурировать
+mixed - смешанный
+extinguish - тушить
+calm - успокаивать
+find - находить
+like - нравиться
+help - помогать
+know - знать
+notice - замечать
+catch - поймать
+show - показывать
+drive - управлять
+decide - решать
+consider - рассматривать
+forgive - прощать
+forget - забывать
+postpone - откладывать
+back - поддерживать
+fail - терпеть неудачу
+want - нуждаться
+remove - удалять
+retaliate - мстить
+support - поддерживать
+return - возвращаться
+write - писать
+cut - резать
+overcome - преодолевать
+draw - рисовать
+make - делать
+reach - достигать
+try - пытаться
+snow - заносить снегом
+study - изучить
+bring - приносить
+crash - разбивать
+call - называть
+remember - запомнить
+follow - следовать
+rip - рвать
+meet - встречаться
+faster - быстрее
+indicate - указывать
+divide - делить
+lose - терять
+look - посмотреть
+put - класть
+pull - тянуть
+have - иметь
+report - сообщить
+change - изменять
+see - увидеть
+interrupt - прерывать
+start - начинать
+borrow - заимствовать
+hold - занимать
+send - отправлять
+watch - смотреть
+clothing - одежда
+tear - рвать
+dress - одеваться
+wish - желать
+finish - финишировать
+say - сказать
+fit - соответствовать
+log - регистрировать
+book - заказывать
+enter - вводить
+turn - повернуть
+cheat - обманывать
+work - работать
+rob - грабить
+achieve - достигать
+beat - бить
+steal - красть
+clean - чистить
+faint - падать в обморок
+discard - отбрасывать
+vomit - страдать рвотой
+come - приехать
+explode - взорваться
+be - быть
+owe - быть должным
+oppose - выступать против
+keep - держать
+provide - предоставлять
+spend - тратить
+end - заканчиваться
+throw - бросать
+wear - носить
+talk - говорить
+punish - наказать
+fight - бороться
+fall - падать
+trap - улавливать
+separate - отделять
+argue - спорить
+discover - открывать
+examine - исследовать
+think - думать
+stir - размешивать
+do - делать
+publish - публиковать
+laugh - смеяться
+arrive - приехать
+rely - полагаться
+warm - нагреваться
+quit - бросать
+relax - отдыхать
+resolve - разрешать
+close - закрывать
+freeze - замораживать
+escape - бежать
+tidy - убирать
+sheet - покрывать
+listen - прослушать
+allow - позволять
+cheer - аплодировать
+tell - сказать
+develop - развивать
+lie - лежать
+stop - остановить
+continue - продолжать
+hide - скрывать
+encourage - поощрять
+distribute - распространять
+equal - равняться
+ame - ame.
+arrange - договориться
+let - препятствовать
+refuse - отказываться
+drop - падать
+move - двигаться
+region - область, край
+wash - мыть
+hear - слышать
+submit - подавать
+apply - применять
+understand - понять
+pick - выбирать
+disappoint - разочаровывать
+limit - ограничивать
+transfer - передавать
+sleep - спать
+assemble - собираться
+unattached - неопределенно
+receive - получать
+pass - проходить
+reverse - реверсировать
+will - буду
+do - делать
+might - мощь
+get - получать
+could - мог
+should - должен
+must - должен
+be - быть
+can - могу
+would - было бы
+have - имеют
+forward - вперед
+faster - быстрее
+all - совершенно
+boastfully - ускоренно
+outside - вне
+over - свыше
+now - сейчас
+down - вниз
+unwillingly - неохотно
+often - часто
+finally - окончательно
+sort - сортировать
+fairly - довольно
+forcibly - принудительно
+usually - обычно
+very - очень
+else - еще
+around - вокруг
+in - внутри
+well - хорошо
+accidentally - случайно
+firmly - твердо
+enough - достаточно
+reluctantly - неохотно
+round - вокруг
+early - рано
+out - вне
+as - как
+ahead - вперед
+away - далеко
+suddenly - вдруг
+just - просто
+up - выше
+fast - быстро
+apart - отдельно
+sometime - некогда
+somewhere - где-то
+back - назад
+there - там
+especially - особенно
+by - мимо
+too - тоже
+unexpectedly - неожиданно
+sometimes - иногда
+again - снова
+along - вдоль
+always - всегда
+home - дома
+fine - хорошо
+nearby - неподалеку
+barely - едва
+together - вместе
+purposely - нарочно
+harder - сильнее
+only - всего
+eventually - в конечном счете
+ever - всегда
+still - еще
+so - так
+informal - неофициальный
+much - много
+here - здесь
+off - выключено
+on - согласно
+carefully - внимательно
+hard - тяжело
+instead - вместо
+soon - скоро
+through - через
+to - к
+into - в
+before - до
+over - над
+down - вниз
+for - для
+of - из
+about - о
+than - чем
+around - вокруг
+in - в
+out - из
+as - в качестве
+across - через
+away - прочь
+without - без
+like - подобно
+up - по
+after - после
+back - назад
+by - по
+along - вдоль
+with - с
+during - во время
+from - от
+onto - на
+against - от
+until - до
+at - на
+on - на
+off - от
+BBQ - БАРБЕКЮ
+Frog - Лягушка
+Department - отделение
+Exeter - Экземпляра
+Bob - Боб
+Brian - Брайан
+act - действовать
+January - Январь
+news - Новости
+Elizabeth - Элизабет
+Liz - Лиз
+Luke - Упрямый
+C. - Слияние
+Andrea - Андреа
+Christmas - Рождество
+Judy - Джуди
+Jack - разъем
+Josie - Джози
+Marty - Марти
+good - хорошо
+Jason - Джейсон
+Friday - Пятница
+Facebook - Facebook
+Monday - понедельник
+bookshelf - книжная полка
+Tina - Тина
+Sales - Продажи
+Science - Наука
+Asia - Азия
+Hang - Вешать
+Jamie - Джейми
+Samantha - Саманта
+Jesse - Добыча
+Franz - Франц
+come forward - волонтер для задачи или дать доказательства
+check out something - посмотрите (неформально)
+pay for something - быть наказанным за то, что делает что-то плохое
+run into somebody - встретиться неожиданно
+go without something - страдать от недостатка или лишения
+get over something - преодолеть проблему
+put up with somebody - терпеть
+look into something - исследовать
+look for somebody - попытаться найти
+get away - идти в отпуску
+hang out - проведите время отдыха (неформально)
+do away with something - отказаться
+fall apart - разбить на части
+get along - как друг друга
+warm up - подготовьте тело для упражнений
+grow apart - перестань быть друзьями со временем
+log on - войдите в систему (на сайт, базу данных и т. д.)
+call around - телефон много разных мест / людей
+go after somebody - следуй кому-то
+look out for somebody - быть особенно бдительным для
+call on somebody - посетите кого-то
+ask around - спросите многих людей тот же вопрос
+look down on somebody - думать меньше, рассмотрите уходу
+drop out - бросить класс, школа и т. д.
+turn up - появляются внезапно
+get back - возвращать
+log off - выйдите из (сайта, базы данных и т. д.)
+shop around - сравнивать цены
+check in - прибытие и зарегистрируйтесь в отеле или аэропорту
+find out - открывать
+run out - ничего не осталось
+catch up - добраться до одной и той же точки, что и кто-то еще
+come from some-place - возникать внутрь
+drop by - прийти без назначения
+look out - будьте осторожны, бдительны и обратите внимание
+take after somebody - напоминать члена семьи
+break into something - введите принудительно
+come down with something - заболеть
+think back - помните (часто +, иногда + на)
+calm down - расслабиться после того, как злиться
+get on - как друг друга
+check out somebody - посмотрите (неформально)
+drop back - вернитесь в положение / группу
+hold on - подождать короткое время
+eat out - есть в ресторане
+get away with something - делать без замечания или наказания
+grow out of something - быть слишком большим для
+hold onto something - твердо держись, используя руки или руки
+go against somebody - конкурировать, противостоит
+look after something - заботиться о
+run away - оставить неожиданно, убежать
+go back - вернуться в место
+look out for something - быть особенно бдительным для
+break out in something - развивать состояние кожи
+grow back - отзыв
+fall down - упасть на землю
+end up - в конечном итоге достичь / сделать / решить
+run through something - репетиция, обзор
+get back into something - заинтересоваться чем-то снова
+log out - выйдите из (сайта, базы данных и т. д.)
+stick to something - продолжать делать что-то, ограничь себя одной конкретной вещью
+go over something - для пересмотра
+hold onto somebody - твердо держись, используя руки или руки
+come apart - разделять
+pass out - к слабе
+blow up - взрываться
+get together - встретиться (обычно по социальным причинам)
+chip in - помочь
+get round to something - наконец-то найти время, чтобы сделать (ame: обойти к чему-то)
+go out with somebody - дата с кем-то
+not care for somebody - не как (формально)
+put up with something - терпеть
+run over somebody - водить автомобиль над человеком или вещей
+grow up - стать взрослым
+fall out - (из волос, зубов) стать свободным и неприкоснодованным
+get on something - шаг на автомобиль
+grow into something - быть достаточно большим, чтобы соответствовать
+give in - неохотно прекратить борьбу или спорить
+count on somebody - полагаться на
+hang on - подождите короткое время (неформально)
+look forward to something - быть взволнованным о будущем
+go out - оставьте домой, чтобы пойти на социальное событие
+cut in - начать работу (двигателя или электрического устройства)
+get back at somebody - отомстить, отомстить
+drop over - прийти без назначения
+give up - перестань пытаться
+run over something - репетиция, обзор
+look for something - попытаться найти
+wake up - остановить спать
+get around - иметь мобильность
+run into something - встретиться неожиданно
+break out - сбежать
+not care for something - не как (формально)
+break up - начните смеяться (неформально)
+cheer up - стать счастливее
+hang up - конец телефонного звонка
+count on something - полагаться на
+come across something - найти неожиданно
+take off - начать летать
+cut back on something - потреблять меньше
+drop in - прийти без назначения
+break down - расстроиться
+wear off - исчезнуть
+sleep over - оставайтесь где-то на ночь (неформально)
+work out - быть успешным
+go after something - попытаться достичь чего-то
+go over - посетите кого-то поблизости
+make up - прости друг друга
+go ahead - начать, продолжить
+look after somebody - заботиться о
+break in - прервать
+pass away - умереть
+show off - действовать дополнительное специальное для людей, наблюдающих (обычно ущербно)
+hang in - оставаться положительным (неформально)
+log in - войдите в систему (на сайт, базу данных и т. д.)
+check out - оставьте отель
+dress up - носить хорошую одежду
+get up - стоять
+add up to something - в равной
+look up to somebody - иметь много уважения к
+keep on - продолжить
+break something in - носить что-нибудь несколько раз, чтобы он не выглядел / не чувствует
+drop something off - взять что-нибудь где-нибудь и оставьте его там
+cut something down - сделать что-то падать на землю
+give something out - дать многим людям (обычно не стоит)
+try something out - тестировать
+hold somebody back - предотвратить делать / идти
+fill something out - чтобы написать информацию в пробелах, как по форме (ame)
+take something out - удалить из места или вещи
+give something away - дать что-нибудь кому-то бесплатно
+get something across - общаться, сделать понятно
+fill something in - чтобы написать информацию в пробелах, как по форме (bre)
+hand something down - дать что-то, что кто-то другой
+bring somebody down - делать несчастным
+find something out - открывать
+get something over - общаться, сделать понятно
+make something up - изобретать, ложь о чем-то
+call somebody back - вернуть телефонный звонок
+call something off - отменить
+give somebody away - возьми невесту на алтарь
+pay somebody back - вернуть задолженность денег
+do something up - закрепить, закрыть
+cross something out - нарисовать
+keep something out - останавливаться от входа
+think something over - рассматривать
+hold something up - грабить
+check something out - смотрите внимательно, расследовать
+pass something out - дать то же самое для многих людей
+put something on - положите одежду / аксессуары на ваше тело
+put somebody down - оскорбление, заставить кого-то чувствовать себя глупым
+keep something up - продолжать с той же скоростью
+pick something out - выбирать
+hold somebody up - грабить
+cut somebody off - выводить из воли
+bring somebody up - вырастить ребенка
+set somebody up - трюк, ловушка
+do something over - сделать снова (ame)
+turn something up - увеличьте объем или прочность (тепло, свет и т. д.)
+back somebody up - поддерживать
+make somebody up - применить косметику к
+switch something off - остановите поток энергии, выключите
+hold something back - скрыть эмоцию
+fill something up - наполнить верх
+check somebody out - смотрите внимательно, расследовать
+take something back - вернуть предмет
+take something apart - намеренно перерываться на куски
+figure something out - понять, найти ответ
+work something out - сделать расчет
+warm something up - увеличить температуру
+put something off - отложить
+cut something off - прекратить обеспечение
+look something up - поиск и поиск информации в справочнике или базе данных
+pass something up - снижение (обычно что-то хорошее)
+turn something down - отказаться
+take somebody out - заплатить за кого-то, чтобы пойти куда-то с тобой
+drop somebody off - взять кого-то где-нибудь и оставьте их там
+ask somebody out - пригласить на свидание
+cheer somebody up - сделать счастливее
+put something out - погасить
+hand something in - подать
+mix something up - путать два или более вещей
+try something on - образец одежды
+cut something out - удалить часть чего-либо (обычно с ножницами и бумагой)
+let somebody down - не поддерживать или помочь, разочаровать
+keep somebody out - останавливаться от входа
+point somebody out - указать с пальцем
+put something down - поставить то, что вы держите на поверхности или пола
+hand something over - дать (обычно неохотно)
+give something up - бросить привычку
+set something up - организовать, организовать
+do somebody over - избил, рансс (брус, неформальный)
+let somebody in - разрешить ввести
+turn something on - начните энергию, включите
+look something over - проверьте, проверьте
+break something down - разделите на меньшие части
+put something together - собрать
+back something up - отменить
+take something off - удалить что-нибудь (обычно одежда)
+warm somebody up - увеличить температуру
+throw something away - распоряжаться
+give something back - вернуть заемный предмет
+switch something on - начните расход энергии, включите
+get something back - получить то, что у вас было раньше
+sort something out - организовать, решить проблему
+point something out - указать с пальцем
+clean something up - аккуратный, чистый
+hand something out - распределить группу людей
+turn something off - остановите поток энергии, выключите
+tear something up - разорвать на куски
+keep something from somebody - не говори
+bring something up - рвать
+send something back - вернуться (обычно по почте)
+blow something up - добавить воздуха
+call somebody up - звонить
+use something up - закончить поставку

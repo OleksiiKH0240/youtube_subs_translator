@@ -1,7 +1,7 @@
 import os
 import sys
 from os.path import join
-from typing import List
+from typing import List, Iterable
 
 TOKEN = os.getenv("youtube_subs_translator_token")
 ADMIN_ID = os.getenv("telegram_user_id")
@@ -9,7 +9,7 @@ ADMIN_ID = os.getenv("telegram_user_id")
 Parser_folder_name = 'parser_temp_files'
 Buffer_folder_name = 'telegram_temp_files'
 
-Modules_paths = ["_bot", "_parser", "_translator", "Benchmarks_funcs", "_data"]
+Modules_paths = ["_bot", "_parser", "_translator", "Benchmarks_funcs", "_data", "resources"]
 
 main_folder_name = 'youtube_subs_translator'
 
@@ -30,7 +30,7 @@ Base_path = get_base_path()
 # print(Base_path)
 
 # print('Base_path: ', Base_path)
-def get_paths(modules_names=None) -> List[str]:
+def get_paths(modules_names: Iterable[str, ] = None) -> List[str]:
     if modules_names is None:
         modules_names = Modules_paths
 
@@ -41,4 +41,5 @@ def get_paths(modules_names=None) -> List[str]:
             sys.path.append(i)
 
     return requirement_paths
+
 

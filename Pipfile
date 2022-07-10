@@ -4,10 +4,20 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-aiogram = "~=2.9.2"
+aiogram = "*"
 googletrans = "==4.0.0rc1"
 youtube-transcript-api = "*"
 scipy = "*"
+cython = "*"
+nltk = "*"
+textblob = "*"
+stanfordcorenlp = "*"
+spacy = "*"
+autocorrect = "*"
+google-cloud-translate = "*"
+aiohttp-socks = "*"
+rich = "*"
+pywin32 = "==225"
 
 [dev-packages]
 
